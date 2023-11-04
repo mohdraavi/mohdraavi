@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there,it's Ravi<br><br>Ai | Machine Learning |Deep Learning| NLP<br><br>To utilize my knowledge and ideas in the field of data science, machine Learning and data analysis toward the smooth functioning of organization, I realized that, satisfaction is a book of achievement, which hold learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
+Hi there,it's Ravi<br><br>Ai | Machine Learning |Deep Learning| NLP<br><br>To utilize my knowledge and ideas in the field of ai, machine Learning and deep learning toward the smooth functioning of organization, I realized that, satisfaction is a book of achievement, which hold learning experience records of doing, trying, twiddling, getting failed, trying again and finally succeeding in the project.
 
 
 ## 🌐 Socials:
